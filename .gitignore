@@ -1,0 +1,9 @@
+# 배포에 필요한 파일만 올립니다 (나머지는 로컬에만 보관)
+*
+!.gitignore
+!vercel.json
+!main.html
+!admin.html
+!ailifemaker_logo.png
+!김부장 사진.png
+!동영상.mp4
